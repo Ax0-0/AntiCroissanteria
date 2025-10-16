@@ -13,24 +13,6 @@ Protection **ULTRA-RAPIDE** contre les "croissantages" sur PC Windows non verrou
 ## ⚡ Vitesse de Réaction
 
 - **Détection** : Instantanée (dès la dernière lettre tapée)
-- **Verrouillage** : <40ms (AVANT que vous puissiez appuyer sur Entrée)
-- **Photo** : Capturée en arrière-plan après le verrouillage
-- **Résultat** : Le PC se verrouille **AVANT** que le message parte sur Slack/Teams !
-
-## 🎯 Fonctionnalités
-
-- 🔒 **Verrouillage INSTANTANÉ** du PC Windows (avant envoi du message)
-- 📸 **Photo webcam** automatique du coupable
-- ⌨️ **Détection ultra-rapide** du mot-clé personnalisable
-- 📝 **Logs horodatés** avec preuves photo
-- 🚀 **Démarrage automatique** avec Windows (optionnel)
-- 👻 **Mode invisible** (pas de fenêtre visible) 🥐
-
-Programme de protection **ULTRA-RAPIDE** contre les "croissantages" sur PC non verrouillé.
-
-## ⚡ Vitesse de Réaction
-
-- **Détection** : Instantanée (dès la dernière lettre tapée)
 - **Verrouillage** : <10ms (AVANT que vous puissiez appuyer sur Entrée)
 - **Photo** : Capturée en arrière-plan après le verrouillage
 - **Résultat** : Le PC se verrouille **AVANT** que le message parte sur Slack !
